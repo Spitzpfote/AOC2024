@@ -1,8 +1,8 @@
 <?php
     include 'Tage/Tag4/Tag4.php';
-    include 'Tage/Tag4/Tag5.php';
-    include 'Tage/Tag4/Tag6.php';
-    include 'Tage/Tag4/Tag7.php';
+    include 'Tage/Tag5/Tag5.php';
+    include 'Tage/Tag6/Tag6.php';
+    include 'Tage/Tag7/Tag7.php';
     use Tag4\Tag4;
     use Tag5\Tag5;
     use Tag6\Tag6;
